@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147436476721",
+    "firebase_url": "https://android-zad3.firebaseio.com",
+    "project_id": "android-zad3",
+    "storage_bucket": "android-zad3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147436476721:android:1f753ea70789b69872f810",
+        "android_client_info": {
+          "package_name": "com.cyberus2603.androidzad3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147436476721-97rg7mmt1nj2vl095bqal96psf1on35n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC92L1IW6tH-ZLRPrayD3ZZb2ihHjvkgJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147436476721-97rg7mmt1nj2vl095bqal96psf1on35n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
